@@ -503,11 +503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shree\\Documents\\FirstWebAPI\\FirstWebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\shree\\OneDrive\\ドキュメント\\Digital-Nurture-DotNetFSE-Solutions\\Deepskilling\\Web API\\1. WepAPI_Handson\\FirstWebAPI\\FirstWebAPI.csproj",
       "projectName": "FirstWebAPI",
-      "projectPath": "C:\\Users\\shree\\Documents\\FirstWebAPI\\FirstWebAPI.csproj",
+      "projectPath": "C:\\Users\\shree\\OneDrive\\ドキュメント\\Digital-Nurture-DotNetFSE-Solutions\\Deepskilling\\Web API\\1. WepAPI_Handson\\FirstWebAPI\\FirstWebAPI.csproj",
       "packagesPath": "C:\\Users\\shree\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shree\\Documents\\FirstWebAPI\\obj\\",
+      "outputPath": "C:\\Users\\shree\\OneDrive\\ドキュメント\\Digital-Nurture-DotNetFSE-Solutions\\Deepskilling\\Web API\\1. WepAPI_Handson\\FirstWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shree\\AppData\\Roaming\\NuGet\\NuGet.Config"
