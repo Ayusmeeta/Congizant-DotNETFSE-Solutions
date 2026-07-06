@@ -1,0 +1,15 @@
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Singleton_Pattern\bin\Debug\net10.0\Singleton_Pattern.exe
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Singleton_Pattern\bin\Debug\net10.0\Singleton_Pattern.deps.json
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Singleton_Pattern\bin\Debug\net10.0\Singleton_Pattern.runtimeconfig.json
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Singleton_Pattern\bin\Debug\net10.0\Singleton_Pattern.dll
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Singleton_Pattern\bin\Debug\net10.0\Singleton_Pattern.pdb
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Singleton_Pattern\obj\Debug\net10.0\Singleton_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Singleton_Pattern\obj\Debug\net10.0\Singleton_Pattern.AssemblyInfoInputs.cache
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Singleton_Pattern\obj\Debug\net10.0\Singleton_Pattern.AssemblyInfo.cs
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Singleton_Pattern\obj\Debug\net10.0\Singleton_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Singleton_Pattern\obj\Debug\net10.0\Singleton_Pattern.sourcelink.json
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Singleton_Pattern\obj\Debug\net10.0\Singleton_Pattern.dll
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Singleton_Pattern\obj\Debug\net10.0\refint\Singleton_Pattern.dll
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Singleton_Pattern\obj\Debug\net10.0\Singleton_Pattern.pdb
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Singleton_Pattern\obj\Debug\net10.0\Singleton_Pattern.genruntimeconfig.cache
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Singleton_Pattern\obj\Debug\net10.0\ref\Singleton_Pattern.dll

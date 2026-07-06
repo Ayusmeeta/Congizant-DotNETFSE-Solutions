@@ -1,0 +1,15 @@
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Factory_Method_Pattern\bin\Debug\net10.0\Factory_Method_Pattern.exe
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Factory_Method_Pattern\bin\Debug\net10.0\Factory_Method_Pattern.deps.json
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Factory_Method_Pattern\bin\Debug\net10.0\Factory_Method_Pattern.runtimeconfig.json
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Factory_Method_Pattern\bin\Debug\net10.0\Factory_Method_Pattern.dll
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Factory_Method_Pattern\bin\Debug\net10.0\Factory_Method_Pattern.pdb
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Factory_Method_Pattern\obj\Debug\net10.0\Factory_Method_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Factory_Method_Pattern\obj\Debug\net10.0\Factory_Method_Pattern.AssemblyInfoInputs.cache
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Factory_Method_Pattern\obj\Debug\net10.0\Factory_Method_Pattern.AssemblyInfo.cs
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Factory_Method_Pattern\obj\Debug\net10.0\Factory_Method_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Factory_Method_Pattern\obj\Debug\net10.0\Factory_Method_Pattern.sourcelink.json
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Factory_Method_Pattern\obj\Debug\net10.0\Factory_Method_Pattern.dll
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Factory_Method_Pattern\obj\Debug\net10.0\refint\Factory_Method_Pattern.dll
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Factory_Method_Pattern\obj\Debug\net10.0\Factory_Method_Pattern.pdb
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Factory_Method_Pattern\obj\Debug\net10.0\Factory_Method_Pattern.genruntimeconfig.cache
+C:\Users\shree\OneDrive\ドキュメント\Digital-Nurture-DotNetFSE-Solutions\Deepskilling\Engineering concepts\Design Patterns and principles\Factory_Method_Pattern\obj\Debug\net10.0\ref\Factory_Method_Pattern.dll
